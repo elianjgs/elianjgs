@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Elian
 
-🎓 IT Student at FACPYA (UANL)  
+🎓 IT Student   
 📊 Aspiring Data Analyst → Data Scientist → ML Engineer  
 📍 Monterrey, MX
 
