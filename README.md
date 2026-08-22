@@ -9,23 +9,21 @@
 ## 🚀 Skills
 - Python
 - SQL
-- Git & GitHub
+- Git & GitHub (basic)
 - Data Analysis (Pandas, NumPy)
 - Learning Machine Learning
 
 ---
 
 ## 📂 Featured Projects
-🔹 [Electronic Agenda System](link)  
-🔹 [Data Analysis Project](link)  
-🔹 [Python Exercises](link)
+🔹 
 
 ---
 
 ## 📈 Currently Learning
 - Machine Learning
 - Statistics
-- English & German
+- German and Japanese
 
 ---
 
